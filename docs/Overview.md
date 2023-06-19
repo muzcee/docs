@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Customization
-nav_order: 1
+title: Slurm
+nav_order: 4
 ---
+
 # Slurm Overview
 ## Introduction
 
