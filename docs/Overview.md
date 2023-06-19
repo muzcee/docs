@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Slurm
+title: Slurm Overview
 nav_order: 4
 ---
 
